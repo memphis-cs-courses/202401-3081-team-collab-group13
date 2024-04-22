@@ -1,14 +1,17 @@
 class PagesController < ApplicationController
   def index
   end
+  
   def danny080298
   end
 
-  def username
-    get 'username', to: 'pages#username', as: 'username'
+  def heygo67
+  end
+
+  def avery0123
   end
  
-end
-
   def yahianahhas
   end
+  
+end
