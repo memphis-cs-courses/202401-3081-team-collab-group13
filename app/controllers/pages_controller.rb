@@ -3,6 +3,10 @@ class PagesController < ApplicationController
   end
 
   def username
-    get 'username', to: 'pages#username', as: 'username'
+
+  end
+
+  def avery0123
+
   end
 end
