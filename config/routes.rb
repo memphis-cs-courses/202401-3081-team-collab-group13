@@ -12,3 +12,5 @@ Rails.application.routes.draw do
 
 
 end
+
+  get 'yahianahhas', to: 'pages#yahianahhas', as: 'yahianahhas'
